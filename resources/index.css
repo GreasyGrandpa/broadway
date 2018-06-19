@@ -1,0 +1,12 @@
+*{
+  text-align: horizontal;
+  font-family: Helvetica;
+}
+h1{
+  font-weight: bold;
+  font-size: 70px
+}
+.s1{
+  background-image: url();
+  color: white;
+}
