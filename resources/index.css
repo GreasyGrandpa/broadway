@@ -7,6 +7,30 @@ h1{
   font-size: 70px
 }
 .s1{
-  background-image: url();
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   color: white;
+}
+.bold{
+  font-weight: bold;
+}
+.bigish{
+  font-size: 32px;
+}
+.big{
+  font-size: 23px;
+}
+.nb{
+  font-size: 14px;
+}
+.left{
+  text-align: left;
+}
+.gray{
+  background-color: dimgray;
+  color: white;
+}
+.tiny{
+  font-size: 11px;
+  color: white;
+
 }
