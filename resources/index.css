@@ -1,6 +1,7 @@
 *{
   text-align: horizontal;
   font-family: Helvetica;
+  text-align: center;
 }
 h1{
   font-weight: bold;
@@ -32,5 +33,7 @@ h1{
 .tiny{
   font-size: 11px;
   color: white;
-
+}
+a{
+  color: white;
 }
